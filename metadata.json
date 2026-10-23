@@ -1,0 +1,10 @@
+{
+  "name": "Nova",
+  "description": "Deep indigo and gold AI assistant powered by Gemini with Urdu multilingual chat, live voice calls, 3D interactive celestial orb, voice previews, and creative image & video gallery.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
